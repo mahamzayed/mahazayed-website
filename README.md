@@ -1,2 +1,2 @@
 # mahazayed-website
-Repository for for personal website
+Repository for personal website
