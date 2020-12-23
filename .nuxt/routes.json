@@ -1,0 +1,16 @@
+[
+  {
+    "name": "home",
+    "path": "/home",
+    "component": "/Users/mzayed/Desktop/Projects/Dev Work/Personal Website/mahazayed-website/pages/home/index.vue",
+    "chunkName": "pages/home/index",
+    "_name": "_6d94b3cc"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/mzayed/Desktop/Projects/Dev Work/Personal Website/mahazayed-website/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_cf72fcec"
+  }
+]
