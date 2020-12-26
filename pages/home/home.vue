@@ -2,7 +2,7 @@
   <div class="container">
     <div>
       <!-- <Logo /> -->
-      <img class="homepage-img" src="../static/images/profile_img.jpg" alt="Profile Image" />
+      <!-- <img class="homepage-img" src="../static/images/portrait.jpg" alt="Profile Image" /> -->
       <h1 class="title">hello and welcome to my website! &#128075;</h1>
       <p>
         This site is currently under construction and will be released in early 2021.
